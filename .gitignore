@@ -1,0 +1,18 @@
+# Dependencias
+node_modules
+
+# Compilados
+dist
+
+# Registros
+logs
+*.log
+npm-debug.log*
+
+# Variables de entorno (solo viven en el servidor)
+.env
+
+# Archivos de sistema e IDE
+.DS_Store
+.idea
+.vscode
